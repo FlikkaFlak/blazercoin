@@ -11,7 +11,7 @@ else
     exit 1
 fi
 
-DESC="v0.1"
+DESC="v0.9.6.2"
 TIME="`date`"
 #if [ -e "$(which git)" ]; then
     ## clean 'dirty' status of touched files that haven't been modified
