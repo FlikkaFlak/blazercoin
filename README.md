@@ -20,6 +20,7 @@ Reward Base
  - Pre-mine of 564,480 for Development & Bounties
  
 Extra Info
+ - Ticker: BLAZR
  - RPCport: 8212
  - P2Pport: 8213
  
