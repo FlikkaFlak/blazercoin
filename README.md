@@ -18,6 +18,14 @@ BlazerCoin is a cryptocurrency that uses scrypt as its proof-of-work algorithm.
 Reward Base
  - 84 coins per block
  - Pre-mine of 564,480 for Development & Bounties
+ 
+Extra Info
+ - RPCport: 8212
+ - P2Pport: 8213
+ 
+blazercoin.conf
+
+Use addnode= for Connection/Synchronization
 
 For more information see the Official BlazerCoin Bitcointalk Thread.
 
