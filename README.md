@@ -13,6 +13,7 @@ BlazerCoin is a cryptocurrency that uses scrypt as its proof-of-work algorithm.
  - DGW3 Difficulty Re-target every block
  - No Halving
  - 294,336,000 Total coins to be created (294 Million)
+ - 3MB Blocksize Limit
 
 Reward Base
  - 84 coins per block
