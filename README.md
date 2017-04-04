@@ -1,25 +1,24 @@
 BlazerCoin integration/staging tree
 ================================
 
-http://www.blazercoin.org
-
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
+Copyright (c) 2017 BlazerCoin Developers
 
 What is BlazerCoin?
 ----------------
 
-BlazerCoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+BlazerCoin is a cryptocurrency that uses scrypt as its proof-of-work algorithm.
+ - 3 Minute block targets
+ - DGW3 Difficulty Re-target every block
+ - No Halving
+ - 294,336,000 Total coins to be created (294 Million)
 
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+Reward Base
+ - 84 coins per block
+ - Pre-mine of 564,480 for Development & Bounties
 
-For more information, as well as an immediately useable, binary version of
-the BlazerCoin client sofware, see http://www.blazercoin.org.
+For more information see the Official BlazerCoin Bitcointalk Thread.
 
 License
 -------
